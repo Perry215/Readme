@@ -1,6 +1,6 @@
 # Readme
 
-# <a href="https://www.linkedin.com/in/farren-perry-b90a19177/">FarrenPerry</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/farren-perry-b90a19177/">Farren Perry</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 
 I am passionate about helping businesses enhance security, optimize IT operations, and scale through cloud-based solutions. My goal is to bridge the gap between technology and business needs by building secure, efficient, and innovative IT environments.

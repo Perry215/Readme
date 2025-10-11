@@ -9,8 +9,10 @@ My hands-on experience spans both Linux and Windows environments, where I work e
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/FarrenPerry/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/FarrenPerry/programmatic-vulnerability-remediations)**
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 

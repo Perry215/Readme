@@ -16,7 +16,7 @@ My hands-on experience spans both Linux and Windows environments, where I work e
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario Coming soon 
 
 <hr/>
 
